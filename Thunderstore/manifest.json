@@ -1,9 +1,9 @@
 {
     "name": "HookGenPatcher",
     "version_number": "1.2.10",
-    "website_url": "https://github.com/harbingerofme/Bepinex.Monomod.HookGenPatcher",
+    "website_url": "https://github.com/DestroyedClone/AtOHookGenPatcher",
     "description": "MMHOOK generation at runtime.",
-    "dependencies": [
-      ''//REPLACE ME
-    ]
+  "dependencies": [
+    "BepInEx-BepInExPack_AcrossTheObelisk-5.4.21"
+  ]
 }
